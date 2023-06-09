@@ -1,6 +1,8 @@
 import numpy as np
 from scipy import stats
 import matplotlib.pyplot as plt
+import sys
+sys.path.insert(0, 'F:\Shcool\semestr 4\ТЙіМС\lb\ProbStatLabs\lb_1')# ось тут пропишіть повний шлях до папки lb_1
 import lb_1
 
 
